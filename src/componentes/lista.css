@@ -1,0 +1,24 @@
+ .lista {
+
+    list-style: none;
+    padding: 20px;
+   
+}
+
+.menu {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.lista {
+
+    font-weight: bold;
+}
+
+.lista a {
+
+    text-decoration: none;
+    color:#000;
+}
