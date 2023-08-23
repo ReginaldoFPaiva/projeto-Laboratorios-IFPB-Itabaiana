@@ -12,7 +12,7 @@
 }
 
 .icone {
-
+    display: block;
     font-weight: bold;
     font-size: 20px;
 }
@@ -29,5 +29,11 @@ ul li{
     padding: 100px;
     
 
+}
+
+.imagem__menu {
+    display: inline-block;
+    width:30%;
+    border-radius: 50px;
 }
     
